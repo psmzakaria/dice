@@ -7,4 +7,4 @@ e.g. if the user enters `6` in the text box, generate a random number between `1
 ## Extension
 
 - If the user clicks on "Roll!" when the text box is empty, show an `alert` with the message `Please enter a number of sides!`
-- If the user clicks on "Roll!" when the number in the text box is `0` or negative, show an `alert` with the message `Please enter a valid number of sides!`
+- If the user clicks on "Roll!" when the number in the text box is `0`, negative or not a number, show an `alert` with the message `Please enter a valid number of sides!`
